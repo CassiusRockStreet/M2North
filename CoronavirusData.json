@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+	"Countries": \{\
+		"USA": \{\
+			"Total_Cases": "4904559",\
+			"new_Cases": "0",\
+			"total_deaths": "91981",\
+			"new_deaths": "0",\
+			"total_recovered": "356383"\},\
+		"Russia": \{\
+			"Total_Cases": "15502944",\
+			"new_Cases": "9263",\
+			"total_deaths": "2837",\
+			"new_deaths": "115",\
+			"total_recovered": "76130"\},\
+		"Spain": \{\
+			"Total_Cases": "278188",\
+			"new_Cases": "0",\
+			"total_deaths": "27709",\
+			"new_deaths": "0",\
+			"total_recovered": "196958"\},\
+		"Brazil": \{\
+			"Total_Cases": "278188",\
+			"new_Cases": "0",\
+			"total_deaths": "27709",\
+			"new_deaths": "0",\
+			"total_recovered": "196958"\},\
+	\}\
+\}}
